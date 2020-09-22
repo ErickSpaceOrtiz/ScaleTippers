@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Erick Ortiz
 Benjamin Peaslee
-=======
->>>>>>> 7532412f5defe0f6e0cfb33953c8125876ca1890
